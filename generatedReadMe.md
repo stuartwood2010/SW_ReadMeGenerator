@@ -1,9 +1,9 @@
-# ReadMe Generator
+# a
   ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description
 
-  To Create a Quality read me file using the command line and user input.
+  a
 
   ## Table of Contents
 
@@ -23,13 +23,13 @@
   ## Installation
   To install necessary dependencies, run the following command:
   ```
-  inquirer, fs, path.
+  a
   ```
 
   ## Usage
   To use the program, follow the instructions given:
   ```
-  in the terminal run node index
+  a
   ```
 
   ## License
@@ -41,18 +41,18 @@
   ## Contributing
   The following people have contributed to the project:
   ```
-  Me
+  a
   ```
 
   ## Testing
   Test the programs functionality by doing the following:
   ```
-  Test it in the terminal by running node index
+  a
   ```
 
   ## Questions
   If you have any questions about the project please reach out to me at the following:
-  ```
-  stuartwood2010@gmail.com
-  https://github.com/stuartwood2010
-  ```
+ 
+  My Email Address <stuartwood2010@gmail.com>     
+  My Github Account [stuartwood2010](https://github.com/stuartwood2010/)
+ 
