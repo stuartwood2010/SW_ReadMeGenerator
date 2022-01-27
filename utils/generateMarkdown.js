@@ -50,7 +50,7 @@ function generateMarkdown(data) {
 
 
   ## Installation
-  To install necessary dependencies, run the following command:
+  The following dependencies are required for this program:
   \`\`\`
   ${data.Installation}
   \`\`\`

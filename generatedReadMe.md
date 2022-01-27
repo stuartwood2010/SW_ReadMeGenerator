@@ -1,9 +1,9 @@
-# a
-  ![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)
+# ReadMe Generator
+  
 
   ## Description
 
-  a
+  To create a quality read me file using user input on the command line.
 
   ## Table of Contents
 
@@ -21,33 +21,38 @@
 
 
   ## Installation
-  To install necessary dependencies, run the following command:
+  The following dependencies are required for this program:
   ```
-  a
+  inquirer
   ```
 
   ## Usage
   To use the program, follow the instructions given:
   ```
-  a
+  on the terminal
   ```
 
   ## License
   The following license was used:
   ```
-  MIT
+  function renderLicenseSection(License) {
+  if (License !== 'None') {
+    return `\n* [License](#License)\n`
+  }
+  return '';
+}
   ```
 
   ## Contributing
   The following people have contributed to the project:
   ```
-  a
+  Stuart Wood
   ```
 
   ## Testing
   Test the programs functionality by doing the following:
   ```
-  a
+  on the terminal
   ```
 
   ## Questions
