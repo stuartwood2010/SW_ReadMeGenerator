@@ -3,7 +3,7 @@
 
   ## Description
 
-  To create a quality read me file using user input on the command line.
+  To create a quality ReadMe file, using input from the user from the command line.
 
   ## Table of Contents
 
@@ -23,24 +23,19 @@
   ## Installation
   The following dependencies are required for this program:
   ```
-  inquirer
+  Inquirer
   ```
 
   ## Usage
   To use the program, follow the instructions given:
   ```
-  on the terminal
+  run node index in the terminal.
   ```
 
   ## License
   The following license was used:
   ```
-  function renderLicenseSection(License) {
-  if (License !== 'None') {
-    return `\n* [License](#License)\n`
-  }
-  return '';
-}
+  None
   ```
 
   ## Contributing
@@ -52,7 +47,7 @@
   ## Testing
   Test the programs functionality by doing the following:
   ```
-  on the terminal
+  n/a
   ```
 
   ## Questions
